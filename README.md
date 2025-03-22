@@ -22,3 +22,7 @@
 
 ## 📝 5주차 실습과제 아키텍쳐
 ![프로젝트 아키텍쳐](https://github.com/Hyunje1128/KTB_Cloud/blob/main/Architecture_Prac.drawio.png)
+
+## 📝 7주차 실습과제 아키텍쳐
+- 5주차 아키텍쳐 구체화
+![프로젝트 아키텍쳐](https://github.com/Hyunje1128/KTB_Cloud/blob/main/Architecture_v3.png)
